@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ceb297a70ecfb74479647a7e0e433265
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145808
+  packageName: Terrain Tools Sample Asset Pack
+  packageVersion: 1.0
+  assetPath: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_canyon05.brush
+  uploadId: 310201

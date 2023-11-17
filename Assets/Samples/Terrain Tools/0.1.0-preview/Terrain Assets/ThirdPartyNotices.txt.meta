@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 408677bd09874114a90a745e08fd2112
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145808
+  packageName: Terrain Tools Sample Asset Pack
+  packageVersion: 1.0
+  assetPath: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/ThirdPartyNotices.txt
+  uploadId: 310201

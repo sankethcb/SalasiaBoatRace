@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34a7124a250b6314f803cba5555e7faa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145808
+  packageName: Terrain Tools Sample Asset Pack
+  packageVersion: 1.0
+  assetPath: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/snow.terrainlayer
+  uploadId: 310201

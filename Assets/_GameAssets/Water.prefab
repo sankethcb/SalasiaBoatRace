@@ -30,7 +30,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3665212355372050826
 MonoBehaviour:
@@ -64,7 +64,7 @@ MonoBehaviour:
   smoothnessFadeDistance: 500
   refractionColor: {r: 0, g: 0.44999993, b: 0.65, a: 1}
   maxRefractionDistance: 0.383
-  absorptionDistance: 0.2
+  absorptionDistance: 0.1
   scatteringColor: {r: 0, g: 0.2342565, b: 0.27049786, a: 1}
   ambientScattering: 0.1
   heightScattering: 0.1

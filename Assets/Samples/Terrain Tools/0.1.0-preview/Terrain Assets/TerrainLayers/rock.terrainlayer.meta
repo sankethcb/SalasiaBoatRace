@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 716937fe861ba6748bfd599e6802e70a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145808
+  packageName: Terrain Tools Sample Asset Pack
+  packageVersion: 1.0
+  assetPath: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/rock.terrainlayer
+  uploadId: 310201
