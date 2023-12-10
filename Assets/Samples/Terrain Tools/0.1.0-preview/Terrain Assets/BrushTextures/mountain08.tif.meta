@@ -101,8 +101,8 @@ TextureImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 145808
-  packageName: Terrain Tools Sample Asset Pack
-  packageVersion: 1.0
+  productId: 213198
+  packageName: Unity Terrain - HDRP Demo Scene
+  packageVersion: 1.0.2
   assetPath: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/mountain08.tif
-  uploadId: 310201
+  uploadId: 531742
